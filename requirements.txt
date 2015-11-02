@@ -1,0 +1,9 @@
+aiohttp==0.16.5
+autobahn==0.10.4
+chardet==2.3.0
+flake8==2.4.1
+mccabe==0.3.1
+pep8==1.5.7
+pyflakes==0.8.1
+six==1.9.0
+txaio==1.0.0

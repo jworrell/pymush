@@ -1,0 +1,9 @@
+#!/bin/bash
+
+export PYTHONASYNCIODEBUG=1
+
+export PYMUSH_BASE=~/pymush
+export PYTHON_PATH=$PYTHON_PATH:$PYMUSH_BASE/pymush
+
+
+python $PYMUSH_BASE/pymush/main.py
